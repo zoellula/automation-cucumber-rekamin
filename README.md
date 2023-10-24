@@ -1,10 +1,13 @@
-# automation-cucumber-java
-Homework Digitalent Kominfo Rekamin SQA Course - Automation Test - Saeful Rizal MMM
+# automation-cucumber-rekamin
+Homework Digitalent Kominfo Rekamin SQA Course - Automation Test - Zulfa Nurul A
 
 Hasil report automation :
 1. Feature
-<img src="https://github.com/SaefulRizalMM/automation-cucumber-java/assets/25499193/6e35d06f-cfaa-4a0c-8e1c-806a5b0413f8">
+<img src="https://github.com/zoellula/automation-cucumber-rekamin/assets/24886157/e5a9c116-3d62-4db5-93bb-23c9d647af8a">
+
 2. Steps
-<img src="https://github.com/SaefulRizalMM/automation-cucumber-java/assets/25499193/8ea8db53-0f03-42d0-8879-8761569991e9">
+<img src="https://github.com/zoellula/automation-cucumber-rekamin/assets/24886157/6108e40a-1c86-4946-b5c6-47a2660e6d79">
+
 3. Failure
-<img src="https://github.com/SaefulRizalMM/automation-cucumber-java/assets/25499193/a31e1b1b-9db8-49ce-8992-6dd5efb6e108">
+<img src="https://github.com/zoellula/automation-cucumber-rekamin/assets/24886157/3ca4dcd0-9590-4e26-b41d-823f1c6b828d">
+
